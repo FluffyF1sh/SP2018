@@ -1,0 +1,54 @@
+﻿  Task3.cpp
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\egor markelov\source\repos\task3\task3\task3.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\egor markelov\source\repos\task3\task3\task3.cpp(6): note: use of precompiled header
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(9): error C2065: 'time_t': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(9): error C2146: syntax error: missing ';' before identifier 'timeSA'
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(9): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(10): error C2065: 'time_t': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(10): error C2146: syntax error: missing ';' before identifier 't1'
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(10): error C2065: 't1': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(10): error C2065: 't2': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(13): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(17): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(18): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(21): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(22): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(22): error C3861: 'atoi': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(23): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(23): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(24): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(24): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(25): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(25): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(28): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(32): error C3861: 'strcmp': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(38): error C3861: 'sscanf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(38): error C3861: 'strlen': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(40): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(44): error C2065: 't1': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(45): error C2065: 't2': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(51): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(54): error C2065: 'time_t': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(54): error C2146: syntax error: missing ';' before identifier 'timer'
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(54): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(58): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(58): error C3861: 'time': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(59): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(59): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(62): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(62): error C3861: 'time': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(63): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(63): error C2065: 'timeSA': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(66): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(66): error C2065: 't1': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(66): error C2065: 't2': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(66): error C3861: 'abs': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(67): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(67): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(70): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(71): error C3861: 'printf': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(74): error C2065: 'timer': undeclared identifier
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(74): error C3861: 'localtime': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(75): error C3861: 'asctime': identifier not found
+c:\users\egor markelov\source\repos\task3\task3\task3.cpp(75): error C3861: 'printf': identifier not found
